@@ -1,9 +1,11 @@
 
 [
   {
+    "id":"1",
     "SHARE_APP_LINK":"google.play.com"
   },
     {
+      "id":"2",
   "news_id":"1",
   "title":"Adding info",
   "class":"news",
@@ -11,6 +13,7 @@
   "pix_link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROvXJgYIL8-cI8DSWdbm5YgqxlVE3OYA38vw&usqp=CAU"
 },
     {
+      "id":"3",
         "news_id":"2",
         "title":"Sell Info",
         "class":"business",
