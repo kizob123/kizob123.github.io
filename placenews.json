@@ -1,5 +1,8 @@
 
 [
+  {
+    "SHARE_APP_LINK":"google.play.com"
+  },
     {
   "news_id":"1",
   "title":"Adding info",
@@ -9,9 +12,9 @@
     },
     {
         "news_id":"2",
-        "title":"",
-        "class":"",
-        "story":"",
-        "pix_link":""
+        "title":"Sell Info",
+        "class":"business",
+        "story":"who will sell this app",
+        "pix_link":"simpleunderstood.blogspot.com"
     }
 ]
