@@ -9,7 +9,7 @@
   "news_id":"1",
   "title":"Adding info",
   "class":"news",
-  "story":"here is how to add news here. www.cnn.com",
+  "story":"here is how to add news here. <a href=\"www.cnn.com\">cnn</a>",
   "pix_link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROvXJgYIL8-cI8DSWdbm5YgqxlVE3OYA38vw&usqp=CAU"
 },
     {
